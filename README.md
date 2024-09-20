@@ -48,7 +48,7 @@
   ```
 
 ## Task 5 (GIT)
-  В чем разница git revert, git reset, git merge и git rebase?
+  В чем разница `git revert`, `git reset`, `git merge` и `git rebase`?
 
 ## Task 6 (Docker)
   Настроить LEMP сервер с помощью файла-конфигурации .yml
